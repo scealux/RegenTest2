@@ -1,5 +1,5 @@
-import "./styles.css";
-import * as d3 from "d3";
+//import "./styles.css";
+//import * as d3 from "d3";
 // Create 2 datasets
 
 // Title: Percent of farmers based on Demogrpahic Over time
